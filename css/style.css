@@ -70,6 +70,7 @@ body {
   gap: 1.25rem;
   max-width: 20em;
   max-height: 31.0625em;
+  box-shadow: 0px 10px 20px hsl(220deg, 15%, 70%);
 }
 .card__img {
   overflow: hidden;
